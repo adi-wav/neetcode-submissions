@@ -1,2 +1,4 @@
 1. Concatenation of Array 
    Learnt use of vector_name.insert(position[vector_name.end()], new_vector.begin(), new_vector.end())
+2. Contains Duplicate
+   Instead of making a map, simple make set and check st.count(num)
