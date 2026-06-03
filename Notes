@@ -2,3 +2,7 @@
    Learnt use of vector_name.insert(position[vector_name.end()], new_vector.begin(), new_vector.end())
 2. Contains Duplicate
    Instead of making a map, simple make set and check st.count(num)
+3. Valid Anagram
+   Anagram means 2 strings are same but jumbled. Make 1 list a-z and add and subtract char instances of both strings.
+4. Two Sum
+   Use maps and complement or vector of pairs then sorting and 2 pointer.
