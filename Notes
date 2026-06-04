@@ -6,3 +6,7 @@
    Anagram means 2 strings are same but jumbled. Make 1 list a-z and add and subtract char instances of both strings.
 4. Two Sum
    Use maps and complement or vector of pairs then sorting and 2 pointer.
+5. Longest Common Prefix
+   Compare each char of all strings with smallest one or sort the list and compare first and last only or match the chars in all strings index wise.
+6. Group Anagrams
+   Use hashmaps for frequent things. Use key as either sorted string or frequency list of chars.
